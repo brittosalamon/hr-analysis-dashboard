@@ -40,7 +40,7 @@ The dataset contains employee information like:
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](assets/hr-analysis-dashboard.png.png)
+![Dashboard Screenshot](hr-analysis-dashboard.png.png)
 
 
 >
